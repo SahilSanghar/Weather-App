@@ -1,0 +1,8 @@
+.info-box {
+    text-align: center;
+}
+
+.card_info {
+    display: flex;
+    justify-content: center;
+}
